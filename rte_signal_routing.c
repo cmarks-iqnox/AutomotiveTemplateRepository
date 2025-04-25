@@ -59,5 +59,3 @@ void ApplicationSwc2_Runnable() {
     // ...
   }
 }
-
-//end
